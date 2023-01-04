@@ -1,1 +1,0 @@
-Interger palindrome
